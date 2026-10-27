@@ -13,7 +13,7 @@ authors = [
   { name = "khalidsakrjoker", email = "khalidsakr720@gmail.com" },
 ]
 dependencies = [
-  "pydantic>=2.9",
+  "pydantic>=2.14.1",
   "pydantic-settings>=2.6",
 ]
 
